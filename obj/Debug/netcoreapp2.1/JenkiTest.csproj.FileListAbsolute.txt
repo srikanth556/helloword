@@ -1,0 +1,14 @@
+E:\JenkiTest\bin\Debug\netcoreapp2.1\JenkiTest.deps.json
+E:\JenkiTest\bin\Debug\netcoreapp2.1\JenkiTest.runtimeconfig.json
+E:\JenkiTest\bin\Debug\netcoreapp2.1\JenkiTest.runtimeconfig.dev.json
+E:\JenkiTest\bin\Debug\netcoreapp2.1\JenkiTest.dll
+E:\JenkiTest\bin\Debug\netcoreapp2.1\JenkiTest.pdb
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.csprojAssemblyReference.cache
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.csproj.CoreCompileInputs.cache
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.RazorAssemblyInfo.cache
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.RazorAssemblyInfo.cs
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.AssemblyInfoInputs.cache
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.AssemblyInfo.cs
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.RazorTargetAssemblyInfo.cache
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.dll
+E:\JenkiTest\obj\Debug\netcoreapp2.1\JenkiTest.pdb
