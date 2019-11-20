@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/dotnet/core/aspnet:2.1 AS base
 WORKDIR /app
-EXPOSE 8080
+EXPOSE 5010
 EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/core/sdk:2.1 AS build
